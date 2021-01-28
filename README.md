@@ -1,4 +1,4 @@
-# AppliedAi_Assignments
+# Applied_Data_Science_Assignments
 Tricky Assignments solved over many trials and errors and every one of them in coded by me, unless source is specified respectively.
 
 Assignment 1 - Python Problems.
